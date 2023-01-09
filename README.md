@@ -60,13 +60,9 @@ Here are some interesting projects I have done:
 ##### Databases and Hosting
 
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2Q27?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+![image](https://img.shields.io/badge/Google_Cloud-316192?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Kubernetes?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/Docker?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Github Stats
 
