@@ -59,7 +59,7 @@ Here are some interesting projects I have done:
 
 ##### Databases and Hosting
 
-![image](https://img.shields.io/badge/Microsoft SQL Server-CC2Q27?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft SQL Server-CC2Q27?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
