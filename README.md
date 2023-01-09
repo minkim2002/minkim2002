@@ -19,11 +19,10 @@ Here are some interesting projects I have done:
 ## Contact Me 📫
 
 ✉️ [minkimdom1103@gmail.com](minkimdom1103@gmail.com)
-
 📚 [mkim22@wm.edu](mkim22@wm.edu)
 
 
-## Languages and Technologies
+## Programming
 
 ##### Languages
 
@@ -33,7 +32,6 @@ Here are some interesting projects I have done:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=Go&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Stata)
 ![image](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
