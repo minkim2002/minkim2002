@@ -1,7 +1,7 @@
-# Hi, I'm Min 🙋🏻‍♂️
+# Hi, I'm Min 💥
 
 
-##### 📱 Socials
+##### Socials 📱
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-kim1103/)
 
 
@@ -16,10 +16,10 @@ Here are some interesting projects I have done:
 - Personal Resume
 
 
-## Contact Me 📫
+## Contact Me 💌
 
 ✉️ [minkimdom1103@gmail.com](minkimdom1103@gmail.com)
-📚 [mkim22@wm.edu](mkim22@wm.edu)
+🏫 [mkim22@wm.edu](mkim22@wm.edu)
 
 
 ## Programming
