@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-kim1103/)
 
 
-I am currently an undergraduate student majoring in **CS and ECON @ William & Mary** and will be graduating in June 2024. I'm an ambitious software developer, and my interests include cybersecutiry, robotics, and AI/Machine Learning.
+I am currently an undergraduate student majoring in **CS and ECON @ William & Mary**. I'm an ambitious software developer, and my interests include cybersecutiry, robotics, and AI/Machine Learning.
 
 Here are some interesting projects I have done:
 
