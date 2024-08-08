@@ -5,35 +5,33 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-kim1103/)
 
 
-I am currently an undergraduate student majoring in **CS and ECON @ William & Mary**. I'm an ambitious software developer, and my interests include cybersecutiry, robotics, and AI/Machine Learning.
+I am currently an undergraduate student majoring in **CS and ECON @ William & Mary**. I'm a full-stack software engineer, and my interests include cybersecutiry, trading, and AI/Machine Learning.
 
 Here are some interesting projects I have done:
 
 - Emergency Submission Form @ Fairfax Fire & Rescue Dept.
-- FJLEPC Website @ Fairfax Fire & Rescue Dept. https://lepcfairfax.org 
+- MCP Project: https://mcp.physics.wm.edu/
+- Sol Survivor
+- Pong Game
 - Maze Game
-- 2048 Game
-- Personal Resume
 
+Please feel free to ask me any questions about these projects as I am more than excited to explain!
 
 ## Contact Me 💌
 
 ✉️ [minkimdom1103@gmail.com](minkimdom1103@gmail.com)
 🏫 [mkim22@wm.edu](mkim22@wm.edu)
 
-
 ## Programming
 
 ##### Languages
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%23&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=Go&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=r&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ##### Frameworks and Libraries
