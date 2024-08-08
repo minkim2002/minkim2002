@@ -11,7 +11,6 @@ Here are some interesting projects I have done:
 
 - Emergency Submission Form @ Fairfax Fire & Rescue Dept.
 - MCP Project: https://mcp.physics.wm.edu/
-- Sol Survivor
 - Pong Game
 - Maze Game
 
