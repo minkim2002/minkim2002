@@ -45,8 +45,6 @@ Please feel free to ask me any questions about these projects as I am more than 
 ##### Databases and Hosting
 
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2Q27?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![image](https://img.shields.io/badge/Google_Cloud-316192?style=for-the-badge&logo=google-cloud&logoColor=white)
-![image](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Github Stats
