@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-kim1103/)
 
 
-I am an undergraduate student majoring in **CS and ECON @ William & Mary**. I'm a full-stack software engineer, and my interests include cybersecutiry, trading, and AI/Machine Learning.
+I am a software engineer at Unison, and I studied **CS and ECON @ William & Mary**. I'm a full-stack software engineer, and my interests include cybersecutiry, trading, and AI/Machine Learning.
 
 Here are some interesting projects I have done:
 
