@@ -1,25 +1,27 @@
-# Hi, I'm Min 💥
+# 👋 Hi there!
 
+I’m **Min Kim**, a Software Engineer at **Unison** and a 2024 graduate of **William & Mary** (B.S. in Computer Science & Economics).  
 
-##### Socials 📱
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-kim1103/)
+💻 I’m a **full-stack software engineer** with interests in:
+- Cybersecurity 🔐  
+- Trading 💹  
+- AI / Machine Learning 🤖
 
+---
 
-I am a software engineer at Unison, and I studied **CS and ECON @ William & Mary**. I'm a full-stack software engineer, and my interests include cybersecutiry, trading, and AI/Machine Learning.
+## 🚀 Featured Projects
 
-Here are some interesting projects I have done:
+- **Emergency Submission Form** → Built for Fairfax Fire & Rescue Dept.  
+- **[MCP Project](https://mcp.physics.wm.edu/)** → Mentoring platform for physics students  
+- **Pong Game** → Classic arcade game clone  
+- **Maze Game** → Interactive maze-solving game
 
-- Emergency Submission Form @ Fairfax Fire & Rescue Dept.
-- MCP Project: https://mcp.physics.wm.edu/
-- Pong Game
-- Maze Game
+---
 
-Please feel free to ask me any questions about these projects as I am more than excited to explain!
+### 📬 Get in Touch!
 
-## Contact Me 💌
-
+Feel free to reach out — I’m always excited to chat about my projects or collaborate on new ideas!
 ✉️ [minkimdom1103@gmail.com](minkimdom1103@gmail.com)
-🏫 [mkim22@wm.edu](mkim22@wm.edu)
 
 ## Programming
 
